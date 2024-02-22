@@ -21,7 +21,7 @@ You can see from the above page that Hopper was following a methodical process.
 Debug this:
 
 ```js
-const sayHi = (name) => "Hi, ${name}!"
+const sayHi = (name) => `Hi, ${name}!`
 
 // expected output:
 //
